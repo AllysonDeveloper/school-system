@@ -1,0 +1,15 @@
+C:\Users\allys\source\repos\CadastroEscolar\CadastroEscolar\obj\Debug\netcoreapp3.1\CadastroEscolar.csproj.AssemblyReference.cache
+C:\Users\allys\source\repos\CadastroEscolar\CadastroEscolar\obj\Debug\netcoreapp3.1\CadastroEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allys\source\repos\CadastroEscolar\CadastroEscolar\obj\Debug\netcoreapp3.1\CadastroEscolar.AssemblyInfoInputs.cache
+C:\Users\allys\source\repos\CadastroEscolar\CadastroEscolar\obj\Debug\netcoreapp3.1\CadastroEscolar.AssemblyInfo.cs
+C:\Users\allys\source\repos\CadastroEscolar\CadastroEscolar\obj\Debug\netcoreapp3.1\CadastroEscolar.csproj.CoreCompileInputs.cache
+C:\Users\allys\source\repos\CadastroEscolar\CadastroEscolar\bin\Debug\netcoreapp3.1\CadastroEscolar.exe
+C:\Users\allys\source\repos\CadastroEscolar\CadastroEscolar\bin\Debug\netcoreapp3.1\CadastroEscolar.dll.config
+C:\Users\allys\source\repos\CadastroEscolar\CadastroEscolar\bin\Debug\netcoreapp3.1\CadastroEscolar.deps.json
+C:\Users\allys\source\repos\CadastroEscolar\CadastroEscolar\bin\Debug\netcoreapp3.1\CadastroEscolar.runtimeconfig.json
+C:\Users\allys\source\repos\CadastroEscolar\CadastroEscolar\bin\Debug\netcoreapp3.1\CadastroEscolar.runtimeconfig.dev.json
+C:\Users\allys\source\repos\CadastroEscolar\CadastroEscolar\bin\Debug\netcoreapp3.1\CadastroEscolar.dll
+C:\Users\allys\source\repos\CadastroEscolar\CadastroEscolar\bin\Debug\netcoreapp3.1\CadastroEscolar.pdb
+C:\Users\allys\source\repos\CadastroEscolar\CadastroEscolar\obj\Debug\netcoreapp3.1\CadastroEscolar.dll
+C:\Users\allys\source\repos\CadastroEscolar\CadastroEscolar\obj\Debug\netcoreapp3.1\CadastroEscolar.pdb
+C:\Users\allys\source\repos\CadastroEscolar\CadastroEscolar\obj\Debug\netcoreapp3.1\CadastroEscolar.genruntimeconfig.cache
